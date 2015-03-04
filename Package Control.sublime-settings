@@ -1,0 +1,31 @@
+{
+    "installed_packages":
+    [
+        "All Autocomplete",
+        "AngularJS",
+        "ApacheConf.tmLanguage",
+        "CSS3",
+        "DocBlockr",
+        "Emmet",
+        "Handlebars",
+        "jQuery",
+        "JS Snippets",
+        "LESS",
+        "Package Control",
+        "Package Syncing",
+        "PHP Companion",
+        "Python Auto-Complete",
+        "SCSS",
+        "SideBarEnhancements",
+        "SublimeCodeIntel",
+        "SublimeGit",
+        "SublimeLinter",
+        "SublimeLinter-jshint",
+        "Super-Awesome Paste",
+        "Theme - Spacegray",
+        "ToggleQuotes",
+        "TypeScript",
+        "WordPress",
+        "XAML"
+    ]
+}
