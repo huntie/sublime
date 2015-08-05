@@ -5,7 +5,5 @@
     { "keys": ["super+f"], "command": "show_panel", "args": { "panel": "replace", "reverse": false } },
     { "keys": ["super+v"], "command": "super_awesome_paste" },
     { "keys": ["super+shift+v"], "command": "paste_from_history" },
-    { "keys": ["super+d"], "command": "duplicate_line" },
-    { "keys": ["super+shift+d"], "command": "run_macro_file", "args": { "file": "res://Packages/Default/Delete Line.sublime-macro" } },
     { "keys": ["super+shift+r"], "command": "rename_tag" }
 ]
