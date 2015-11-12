@@ -16,6 +16,7 @@
         "*.sublime-project",
         "*.sublime-workspace"
     ],
+    "find_selected_text": true,
     "folder_exclude_patterns":
     [
         "node_modules",
