@@ -1,0 +1,4 @@
+{
+    "shell_cmd": "phpunit",
+    "working_dir": "$project_path"
+}
