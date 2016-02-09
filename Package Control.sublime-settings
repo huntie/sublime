@@ -2,8 +2,6 @@
     "installed_packages":
     [
         "All Autocomplete",
-        "AngularJS",
-        "ApacheConf.tmLanguage",
         "DocBlockr",
         "EditorConfig",
         "Emmet",
@@ -26,7 +24,6 @@
         "Super-Awesome Paste",
         "Theme - Spacegray",
         "ToggleQuotes",
-        "WordPress",
-        "XAML"
+        "WordPress"
     ]
 }
