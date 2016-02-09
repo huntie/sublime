@@ -2,6 +2,7 @@
     "installed_packages":
     [
         "All Autocomplete",
+        "Composer",
         "DocBlockr",
         "EditorConfig",
         "Emmet",
@@ -14,6 +15,8 @@
         "Package Control",
         "Package Syncing",
         "PHP Companion",
+        "php-snippets",
+        "PHPUnit Completions",
         "Python Auto-Complete",
         "Sass",
         "SideBarEnhancements",
@@ -21,6 +24,7 @@
         "SublimeGit",
         "SublimeLinter",
         "SublimeLinter-jshint",
+        "SublimeLinter-php",
         "Super-Awesome Paste",
         "Theme - Spacegray",
         "ToggleQuotes",
