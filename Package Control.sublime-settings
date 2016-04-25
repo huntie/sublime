@@ -2,6 +2,7 @@
     "installed_packages":
     [
         "All Autocomplete",
+        "Case Conversion",
         "Composer",
         "DocBlockr",
         "EditorConfig",
