@@ -5,23 +5,27 @@
         "error_color": "D02000",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
         "gutter_theme_excludes": [],
-        "lint_mode": "load/save",
+        "lint_mode": "background",
         "linters": {
-            "jshint": {
+            "eslint": {
                 "@disable": false,
                 "args": [],
-                "excludes": [
-                    "*.html",
-                    "*.php"
-                ]
+                "excludes": []
             },
-            "pep8": {
+            "php": {
                 "@disable": false,
                 "args": [],
+                "excludes": []
+            },
+            "pylint": {
+                "@disable": false,
+                "args": [],
+                "disable": "",
+                "enable": "",
                 "excludes": [],
-                "ignore": "",
-                "max-line-length": null,
-                "select": ""
+                "paths": [],
+                "rcfile": "",
+                "show-codes": false
             }
         },
         "mark_style": "solid underline",

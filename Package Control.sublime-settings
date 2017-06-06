@@ -29,7 +29,7 @@
         "SublimeCodeIntel",
         "SublimeGit",
         "SublimeLinter",
-        "SublimeLinter-jshint",
+        "SublimeLinter-contrib-eslint",
         "SublimeLinter-php",
         "SublimeLinter-pylint",
         "Super-Awesome Paste",
