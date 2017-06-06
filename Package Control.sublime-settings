@@ -2,6 +2,7 @@
     "installed_packages":
     [
         "All Autocomplete",
+        "Babel",
         "Case Conversion",
         "CloseOtherWindows",
         "Composer",
@@ -10,10 +11,9 @@
         "Emmet",
         "Find++",
         "GitGutter",
-        "ImageMagick",
         "Handlebars",
+        "ImageMagick",
         "jQuery",
-        "JavaScriptNext - ES6 Syntax",
         "JS Snippets",
         "LESS",
         "Markdown Preview",
