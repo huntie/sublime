@@ -53,5 +53,11 @@
 	"jsdocs_per_section_indent": true,
 	"jsdocs_short_primitives": true,
 	"jsdocs_lower_case_primitives": true,
-	"jsdocs_decorate": true
+	"jsdocs_decorate": true,
+
+	// Platform-specific
+
+	"osx": {
+		"font_size": 12
+	}
 }
