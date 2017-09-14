@@ -20,8 +20,9 @@
     "find_selected_text": true,
     "folder_exclude_patterns":
     [
+        ".git",
         "node_modules",
-        ".git"
+        "tmp"
     ],
     "font_face": "Source Code Pro",
     "font_size": 9,
