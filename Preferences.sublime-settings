@@ -7,6 +7,7 @@
     "bold_folder_labels": true,
     "close_windows_when_empty": true,
     "color_scheme": "Packages/User/Themes/base16-ocean.dark.tmTheme",
+    "draw_shadows": false,
     "ensure_newline_at_eof_on_save": true,
     "file_exclude_patterns":
     [
