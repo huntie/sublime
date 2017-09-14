@@ -1,7 +1,7 @@
 {
-    "git_status_bar": false,
-    "git_extensions": {
-        "git_flow": false,
-        "legit": false
-    }
+	"git_status_bar": false,
+	"git_extensions": {
+		"git_flow": false,
+		"legit": false
+	}
 }
