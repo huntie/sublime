@@ -43,5 +43,15 @@
 	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_separators": "./\\()\"'-:,.;<>~!#%^&*|+=[]{}`~?"
+	"word_separators": "./\\()\"'-:,.;<>~!#%^&*|+=[]{}`~?",
+
+	// DocBlockr
+
+	"jsdocs_return_description": false,
+	"jsdocs_param_description": false,
+	"jsdocs_spacer_between_sections": true,
+	"jsdocs_per_section_indent": true,
+	"jsdocs_short_primitives": true,
+	"jsdocs_lower_case_primitives": true,
+	"jsdocs_decorate": true
 }
