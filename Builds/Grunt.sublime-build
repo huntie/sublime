@@ -1,4 +1,0 @@
-{
-    "shell_cmd": "grunt build",
-    "working_dir": "$project_path"
-}
