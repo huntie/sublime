@@ -1,11 +1,9 @@
-# Sublime configuration
+# Sublime Text configuration
 
-[![License](https://img.shields.io/badge/license-GPL-brightgreen.svg?style=flat-square)]()
+Personal key mappings, packages, snippets and preferences for [Sublime Text 3](http://www.sublimetext.com/).
 
-A collection of keybindings, theme customisations, packages and settings for [Sublime Text](http://www.sublimetext.com/3) intended for web development.
+## Usage
 
-## Getting started
+Place contents under the `Packages/User/` directory, or alternatively link Sublime with the folder locally using [Package Syncing](https://packagecontrol.io/packages/Package%20Syncing).
 
-1.  Install [Package Control](https://packagecontrol.io/installation).
-2.  Clone or download this repository to your `Sublime Text 3/Packages/User/` directory and restart Sublime. Optionally, open the console (`Ctrl+'`) to view the installation status of new packages.
-4.  To share the same configuration over multiple computers, [Package Syncing](https://packagecontrol.io/packages/Package%20Syncing) is highly recommended.
+On Linux, this is preconfigured in my [dotfiles](https://github.com/huntie/dotfiles) repository.
