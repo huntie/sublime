@@ -2,6 +2,6 @@
 	"diff_popup_default_mode": "diff",
 	"show_in_minimap": false,
 	"show_markers_on_untracked_file": true,
-	"show_status": "none",
+	"show_status_bar_text": false,
 	"theme": "Bars Thin.gitgutter-theme"
 }
