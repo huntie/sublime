@@ -1,4 +1,5 @@
 {
+	"always_show_minimap_viewport": true,
 	"atomic_save": true,
 	"binary_file_patterns":
 	[
@@ -27,37 +28,52 @@
 		"tmp"
 	],
 	"font_face": "Native",
+	"font_options":
+	[
+		"no_bold",
+		"no_italic"
+	],
 	"font_size": 9,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"jsdocs_decorate": true,
+	"jsdocs_lower_case_primitives": true,
+	"jsdocs_param_description": false,
+	"jsdocs_per_section_indent": true,
+	"jsdocs_return_description": false,
+	"jsdocs_short_primitives": true,
+	"jsdocs_spacer_between_sections": true,
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
+	"menu_visible": false,
+	"osx":
+	{
+		"font_size": 12
+	},
 	"overlay_scroll_bars": "enabled",
 	"scroll_past_end": true,
 	"shift_tab_unindent": true,
 	"show_full_path": false,
 	"show_line_endings": true,
-	"show_tab_close_buttons": false,
-	"theme": "Spacegray.sublime-theme",
+	"theme": "Boxy Ocean.sublime-theme",
+	"theme_accent_mono": true,
+	"theme_find_panel_atomized": true,
+	"theme_find_panel_close_hidden": true,
+	"theme_find_panel_padding_md": true,
+	"theme_panel_switcher_atomized": true,
+	"theme_quick_panel_size_lg": true,
+	"theme_scrollbar_rounded": true,
+	"theme_sidebar_file_icons_hidden": true,
+	"theme_sidebar_folder_arrow": true,
+	"theme_sidebar_heading_bold": true,
+	"theme_sidebar_highlight_text_only": true,
+	"theme_sidebar_indent_sm": true,
+	"theme_statusbar_size_xs": true,
+	"theme_tab_arrows_hidden": true,
+	"theme_tab_highlight_text_only": true,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_separators": "./\\()\"'-:,.;<>~!#%^&*|+=[]{}`~?",
-
-	// DocBlockr
-
-	"jsdocs_return_description": false,
-	"jsdocs_param_description": false,
-	"jsdocs_spacer_between_sections": true,
-	"jsdocs_per_section_indent": true,
-	"jsdocs_short_primitives": true,
-	"jsdocs_lower_case_primitives": true,
-	"jsdocs_decorate": true,
-
-	// Platform-specific
-
-	"osx": {
-		"font_size": 12
-	}
+	"word_separators": "./\\()\"'-:,.;<>~!#%^&*|+=[]{}`~?"
 }

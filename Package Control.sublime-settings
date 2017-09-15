@@ -4,6 +4,8 @@
 		"All Autocomplete",
 		"Babel",
 		"Base16 Color Schemes",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
 		"C# Snippets",
 		"C++ Snippets",
 		"Case Conversion",
@@ -42,7 +44,6 @@
 		"SublimeLinter-pylint",
 		"Super-Awesome Paste",
 		"Syntax Highlighting for PostCSS",
-		"Theme - Spacegray",
 		"ToggleQuotes"
 	]
 }
