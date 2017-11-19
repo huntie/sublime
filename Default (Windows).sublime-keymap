@@ -1,11 +1,14 @@
 [
-	{ "keys": ["ctrl+shift+h"], "command": "toggle_side_bar" },
-	{ "keys": ["ctrl+shift+i"], "command": "focus_side_bar" },
-	{ "keys": ["ctrl+shift+o"], "command": "show_overlay", "args": { "overlay": "goto", "show_files": true } },
-	{ "keys": ["ctrl+alt+shift+s"], "command": "save_all" },
-	{ "keys": ["ctrl+g"], "command": "show_overlay", "args": { "overlay": "goto", "text": ":" } },
+    { "keys": ["ctrl+e"], "command": "expand_abbreviation_by_tab" },
 	{ "keys": ["ctrl+f"], "command": "show_panel", "args": { "panel": "replace", "reverse": false } },
+    { "keys": ["ctrl+g"], "command": "show_overlay", "args": { "overlay": "goto", "text": ":" } },
 	{ "keys": ["ctrl+v"], "command": "super_awesome_paste" },
-	{ "keys": ["ctrl+shift+v"], "command": "paste_from_history" },
-	{ "keys": ["ctrl+shift+r"], "command": "rename_tag" }
+    { "keys": ["ctrl+shift+h"], "command": "toggle_side_bar" },
+    { "keys": ["ctrl+shift+o"], "command": "show_overlay", "args": { "overlay": "goto", "show_files": true } },
+    { "keys": ["ctrl+shift+r"], "command": "rename_tag" },
+    { "keys": ["ctrl+shift+v"], "command": "paste_from_history" },
+    { "keys": ["ctrl+alt+n"], "command": "side_bar_new_file" },
+    { "keys": ["ctrl+alt+m"], "command": "side_bar_move" },
+    { "keys": ["ctrl+alt+shift+n"], "command": "side_bar_duplicate" },
+    { "keys": ["ctrl+alt+shift+s"], "command": "save_all" }
 ]
