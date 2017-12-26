@@ -36,6 +36,7 @@
 	"font_size": 9,
 	"ignored_packages":
 	[
+		"PHP",
 		"Vintage"
 	],
 	"jsdocs_decorate": true,
