@@ -12,7 +12,6 @@
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
-		"*.pyc",
 		"*.class",
 		"*.zip",
 		"*.sublime-project",
@@ -24,8 +23,7 @@
 		".git",
 		".idea",
 		".vscode",
-		"node_modules",
-		"tmp"
+		"__pycache__"
 	],
 	"font_face": "Native",
 	"font_options":
