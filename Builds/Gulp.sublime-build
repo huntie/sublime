@@ -1,4 +1,4 @@
 {
-    "shell_cmd": "gulp build",
-    "working_dir": "$project_path"
+	"shell_cmd": "gulp build",
+	"working_dir": "$project_path"
 }

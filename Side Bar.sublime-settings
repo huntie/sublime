@@ -1,7 +1,7 @@
 {
-    "confirm_before_deleting": false,
-    "disabled_menuitem_edit": true,
-    "disabled_menuitem_edit_to_right": true,
-    "disabled_menuitem_open_in_new_window": true,
-    "i_donated_to_sidebar_enhancements_developer": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DD4SL2AHYJGBW"
+	"confirm_before_deleting": false,
+	"disabled_menuitem_edit": true,
+	"disabled_menuitem_edit_to_right": true,
+	"disabled_menuitem_open_in_new_window": true,
+	"i_donated_to_sidebar_enhancements_developer": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DD4SL2AHYJGBW"
 }
