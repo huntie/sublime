@@ -1,4 +1,4 @@
 {
-	"shell_cmd": "gulp build",
+	"shell_cmd": "npm run build",
 	"working_dir": "$project_path"
 }
