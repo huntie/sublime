@@ -7,6 +7,13 @@
 		"gutter_theme_excludes": [],
 		"lint_mode": "background",
 		"linters": {
+			"clang": {
+				"@disable": false,
+				"args": [],
+				"excludes": [],
+				"extra_flags": "-std=c++11",
+				"include_dirs": []
+			},
 			"eslint": {
 				"@disable": false,
 				"args": [],
@@ -15,17 +22,17 @@
 			"php": {
 				"@disable": false,
 				"args": [],
-				"excludes": []
-			},
-			"pylint": {
-				"@disable": false,
-				"args": [],
 				"disable": "",
 				"enable": "",
 				"excludes": [],
 				"paths": [],
 				"rcfile": "",
 				"show-codes": false
+			},
+			"pylint": {
+				"@disable": false,
+				"args": [],
+				"excludes": []
 			}
 		},
 		"mark_style": "solid underline",
@@ -46,13 +53,13 @@
 		"show_errors_on_save": false,
 		"show_marks_in_minimap": true,
 		"syntax_map": {
-			"html (django)": "html",
-			"html (rails)": "html",
-			"html 5": "html",
-			"javascript (babel)": "javascript",
-			"php": "html",
-			"python django": "python"
+			"javascript (babel)": "javascript"
 		},
+		"tooltip_fontsize": "1rem",
+		"tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
+		"tooltip_theme_excludes": [],
+		"tooltips": false,
+		"use_current_shell_path": false,
 		"warning_color": "DDB700",
 		"wrap_find": true
 	}
