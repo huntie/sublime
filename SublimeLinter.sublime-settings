@@ -22,14 +22,9 @@
 			"php": {
 				"@disable": false,
 				"args": [],
-				"disable": "",
-				"enable": "",
-				"excludes": [],
-				"paths": [],
-				"rcfile": "",
-				"show-codes": false
+				"excludes": []
 			},
-			"pylint": {
+			"pyflakes": {
 				"@disable": false,
 				"args": [],
 				"excludes": []
