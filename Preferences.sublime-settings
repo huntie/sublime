@@ -13,6 +13,7 @@
 	"file_exclude_patterns":
 	[
 		"*.class",
+		"*.pyc",
 		"*.zip",
 		"*.sublime-project",
 		"*.sublime-workspace"
