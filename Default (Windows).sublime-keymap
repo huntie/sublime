@@ -9,6 +9,7 @@
 	{ "keys": ["ctrl+shift+v"], "command": "paste_from_history" },
 	{ "keys": ["ctrl+alt+n"], "command": "side_bar_new_file" },
 	{ "keys": ["ctrl+alt+m"], "command": "side_bar_move" },
+	{ "keys": ["ctrl+super+p"], "command": "prompt_select_workspace" },
 	{ "keys": ["ctrl+alt+shift+n"], "command": "side_bar_duplicate" },
 	{ "keys": ["ctrl+alt+shift+s"], "command": "save_all" }
 ]
