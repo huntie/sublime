@@ -11,5 +11,6 @@
 	{ "keys": ["ctrl+alt+m"], "command": "side_bar_move" },
 	{ "keys": ["ctrl+super+p"], "command": "prompt_select_workspace" },
 	{ "keys": ["ctrl+alt+shift+n"], "command": "side_bar_duplicate" },
-	{ "keys": ["ctrl+alt+shift+s"], "command": "save_all" }
+	{ "keys": ["ctrl+alt+shift+s"], "command": "save_all" },
+	{ "keys": ["ctrl+k", "l"], "command": "reveal_in_side_bar" }
 ]
