@@ -7,7 +7,7 @@ Personal key mappings, packages, snippets and preferences for [Sublime Text 3](h
 
 ## Overview
 
-I use Sublime as my primary editor on all manner of projects, but only commit stuff here when it becomes part of my long-term toolkit. Feel free to copy anything and adjust what you need for your own workflow.
+I use Sublime daily as my primary text editor, and config changes are committed here when they become part of my long-term toolkit. Feel free to copy anything and adjust what you need for your own workflow.
 
 **Theme**: [Boxy](https://packagecontrol.io/packages/Boxy%20Theme)  
 **Colour scheme**: [gruvbox](https://github.com/morhetz/gruvbox)
@@ -28,7 +28,7 @@ These are defined per-platform in each `Default (<platform>).sublime-keymap` fil
 
 #### Build systems
 
-Additional generic build systems are defined under `Build/`.
+Additional generic build systems are defined under `Builds/`.
 
 ## Installation
 
