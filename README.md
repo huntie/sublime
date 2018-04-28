@@ -3,8 +3,7 @@
 Personal key mappings, packages, snippets and preferences for [Sublime Text 3](http://www.sublimetext.com/).
 
 ![Open file in customised editor with expanded find panel](./screenshot.png)
-
-> The typeface pictured is [Native](https://fortfoundry.com/products/native) by Fort Foundry. I previously used [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) which is a close substitute.
+<sub>Typeface pictured: [Native](https://fortfoundry.com/products/native) by Fort Foundry. [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) is a close substitute.</sub>
 
 ## Overview
 
