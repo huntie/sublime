@@ -1,4 +1,5 @@
 [
+	{ "keys": ["f1"], "command": "toggle_menu" },
 	{ "keys": ["ctrl+e"], "command": "expand_abbreviation_by_tab" },
 	{ "keys": ["ctrl+f"], "command": "show_panel", "args": { "panel": "replace", "reverse": false } },
 	{ "keys": ["ctrl+g"], "command": "show_overlay", "args": { "overlay": "goto", "text": ":" } },
