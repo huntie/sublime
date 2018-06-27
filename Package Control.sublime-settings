@@ -21,7 +21,7 @@
 		"ImageMagick",
 		"JS Snippets",
 		"Markdown Extended",
-		"Markdown Preview",
+		"MarkdownPreview",
 		"nginx",
 		"OpenGL Shading Language (GLSL)",
 		"Origami",
@@ -45,6 +45,7 @@
 		"SublimeLinter-php",
 		"SublimeLinter-pyflakes",
 		"Super-Awesome Paste",
+		"Switch View in Group",
 		"Syntax Highlighting for PostCSS",
 		"tmux",
 		"ToggleQuotes"

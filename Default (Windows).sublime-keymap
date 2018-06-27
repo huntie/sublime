@@ -4,6 +4,8 @@
 	{ "keys": ["ctrl+f"], "command": "show_panel", "args": { "panel": "replace", "reverse": false } },
 	{ "keys": ["ctrl+g"], "command": "show_overlay", "args": { "overlay": "goto", "text": ":" } },
 	{ "keys": ["ctrl+v"], "command": "super_awesome_paste" },
+	{ "keys": ["ctrl+tab"], "command": "next_view_in_group" },
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view_in_group" },
 	{ "keys": ["ctrl+shift+h"], "command": "toggle_side_bar" },
 	{ "keys": ["ctrl+shift+o"], "command": "show_overlay", "args": { "overlay": "goto", "show_files": true } },
 	{ "keys": ["ctrl+shift+r"], "command": "rename_tag" },
