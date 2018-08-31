@@ -5,20 +5,16 @@ Personal key mappings, packages, snippets and preferences for [Sublime Text 3](h
 ![Open file in customised editor with expanded find panel](./screenshot.png)
 <sub>Typeface pictured: [Native](https://fortfoundry.com/products/native) by Fort Foundry. [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) is a close substitute.</sub>
 
-## Overview
-
-I use Sublime daily as my primary text editor, and config changes are committed here when they become part of my long-term toolkit. Feel free to copy anything and adjust what you need for your own workflow.
-
 **Theme**: [Boxy](https://packagecontrol.io/packages/Boxy%20Theme)  
 **Colour scheme**: [gruvbox](https://github.com/morhetz/gruvbox)
 
 #### Plugins
 
-Plugin dependencies are listed in `Package Control.sublime-settings`. Individual plugin settings are largely defined in `.sublime-settings` files of matching name.
+Plugin dependencies are listed in `Package Control.sublime-settings`. Most individual plugin settings are defined in corresponding `.sublime-settings` files.
 
 #### Preferences
 
-Core editor settings, including theme options, are defined in `Preferences.sublime-settings`. Some options are conditionally overridden per-platform using [PlatformSettings](https://packagecontrol.io/packages/PlatformSettings).
+Core editor settings, including theme options, are defined in `Preferences.sublime-settings`. Some options are overridden by platform using [PlatformSettings](https://packagecontrol.io/packages/PlatformSettings).
 
 Additional file type associations are set in separate `<syntax>.sublime-settings` files.
 
