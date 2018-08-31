@@ -3,6 +3,7 @@
 	{ "keys": ["super+f"], "command": "show_panel", "args": { "panel": "replace", "reverse": false } },
 	{ "keys": ["super+g"], "command": "show_overlay", "args": { "overlay": "goto", "text": ":" } },
 	{ "keys": ["super+v"], "command": "super_awesome_paste" },
+	{ "keys": ["ctrl+tab"], "command": "next_view_in_group" },
 	{ "keys": ["super+shift+h"], "command": "toggle_side_bar" },
 	{ "keys": ["super+shift+m"], "command": "expand_selection", "args": { "to": "brackets" } },
 	{ "keys": ["super+shift+o"], "command": "show_overlay", "args": { "overlay": "goto", "show_files": true } },
@@ -13,5 +14,6 @@
 	{ "keys": ["super+alt+n"], "command": "side_bar_new_file" },
 	{ "keys": ["super+alt+m"], "command": "side_bar_move" },
 	{ "keys": ["super+alt+shift+n"], "command": "side_bar_duplicate" },
-	{ "keys": ["super+alt+shift+s"], "command": "save_all" }
+	{ "keys": ["super+alt+shift+s"], "command": "save_all" },
+	{ "keys": ["ctrl+k", "l"], "command": "reveal_in_side_bar" }
 ]
