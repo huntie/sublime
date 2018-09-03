@@ -15,5 +15,11 @@
 	{ "keys": ["super+alt+m"], "command": "side_bar_move" },
 	{ "keys": ["super+alt+shift+n"], "command": "side_bar_duplicate" },
 	{ "keys": ["super+alt+shift+s"], "command": "save_all" },
-	{ "keys": ["ctrl+k", "l"], "command": "reveal_in_side_bar" }
+	{ "keys": ["ctrl+k", "l"], "command": "reveal_in_side_bar" },
+	{
+		"context": [{ "key": "panel", "operand": "replace" }, { "key": "panel_has_focus" }],
+		"keys": ["super+alt+enter"],
+		"command": "replace_all",
+		"args": { "close_panel": true }
+	}
 ]
