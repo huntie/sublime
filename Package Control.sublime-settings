@@ -49,6 +49,7 @@
 		"Switch View in Group",
 		"Syntax Highlighting for PostCSS",
 		"tmux",
-		"ToggleQuotes"
+		"ToggleQuotes",
+		"TOML"
 	]
 }
