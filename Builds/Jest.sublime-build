@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "jest -u",
+	"working_dir": "$project_path"
+}
