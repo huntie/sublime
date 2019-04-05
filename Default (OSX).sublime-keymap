@@ -3,6 +3,7 @@
 	{ "keys": ["super+f"], "command": "show_panel", "args": { "panel": "replace", "reverse": false } },
 	{ "keys": ["super+g"], "command": "show_overlay", "args": { "overlay": "goto", "text": ":" } },
 	{ "keys": ["super+v"], "command": "super_awesome_paste" },
+	{ "keys": ["shift+delete"], "command": "run_macro_file", "args": { "file": "res://Packages/Default/Delete Line.sublime-macro" } },
 	{ "keys": ["ctrl+tab"], "command": "next_view_in_group" },
 	{ "keys": ["super+shift+h"], "command": "toggle_side_bar" },
 	{ "keys": ["super+shift+m"], "command": "expand_selection", "args": { "to": "brackets" } },
