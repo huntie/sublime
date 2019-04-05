@@ -4,7 +4,6 @@
 		"All Autocomplete",
 		"Anaconda",
 		"Babel",
-		"Base16 Color Schemes",
 		"Boxy Theme",
 		"Boxy Theme Addon - Font Face",
 		"C# Snippets",
@@ -16,12 +15,14 @@
 		"EditorConfig",
 		"Emmet",
 		"Find++",
+		"fish",
 		"Git Conflict Resolver",
 		"GitGutter",
 		"GraphQL",
 		"Handlebars",
 		"ImageMagick",
 		"JS Snippets",
+		"JsPrettier",
 		"Markdown Extended",
 		"MarkdownPreview",
 		"nginx",
@@ -46,11 +47,14 @@
 		"SublimeLinter-eslint",
 		"SublimeLinter-php",
 		"SublimeLinter-pyflakes",
+		"SublimeLinter-tslint",
 		"Super-Awesome Paste",
 		"Switch View in Group",
 		"Syntax Highlighting for PostCSS",
 		"tmux",
 		"ToggleQuotes",
-		"TOML"
+		"TOML",
+		"TypeScript",
+		"TypeScript Syntax"
 	]
 }
