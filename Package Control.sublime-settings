@@ -55,6 +55,7 @@
 		"ToggleQuotes",
 		"TOML",
 		"TypeScript",
-		"TypeScript Syntax"
+		"TypeScript Syntax",
+		"VimL"
 	]
 }
