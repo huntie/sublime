@@ -14,7 +14,10 @@
 	],
 	"binary_file_patterns":
 	[
-		"node_modules/*"
+		"node_modules/*",
+		"composer.lock",
+		"package-lock.json",
+		"yarn.lock"
 	],
 	"bold_folder_labels": true,
 	"close_windows_when_empty": true,
