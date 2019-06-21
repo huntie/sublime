@@ -2,6 +2,9 @@
 	"linters": {
 		"clang": {
 			"extra_flags": "-std=c++11"
+		},
+		"eslint": {
+			"selector": "source.js,source.ts"
 		}
 	},
 	"statusbar.counters_template": "",
