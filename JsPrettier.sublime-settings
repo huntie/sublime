@@ -1,4 +1,5 @@
 {
+    "auto_format_on_save_excludes": ["*.md"],
     "prettier_options": {
         "singleQuote": true,
     }
