@@ -15,6 +15,7 @@
 	{ "keys": ["super+alt+n"], "command": "side_bar_new_file" },
 	{ "keys": ["super+alt+m"], "command": "side_bar_move" },
 	{ "keys": ["super+alt+f"], "command": "find_next_conflict" },
+	{ "keys": ["super+alt+i"], "command": "import_js", "args": { "command": "fix" } },
 	{ "keys": ["super+alt+shift+left"], "command": "keep", "args": { "keep": "theirs" } },
 	{ "keys": ["super+alt+shift+right"], "command": "keep", "args": { "keep": "ours" } },
 	{ "keys": ["super+alt+shift+n"], "command": "side_bar_duplicate" },

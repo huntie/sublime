@@ -13,6 +13,7 @@
 	{ "keys": ["ctrl+alt+n"], "command": "side_bar_new_file" },
 	{ "keys": ["ctrl+alt+m"], "command": "side_bar_move" },
 	{ "keys": ["ctrl+alt+f"], "command": "find_next_conflict" },
+	{ "keys": ["ctrl+alt+i"], "command": "import_js", "args": { "command": "fix" } },
 	{ "keys": ["ctrl+alt+shift+left"], "command": "keep", "args": { "keep": "theirs" } },
 	{ "keys": ["ctrl+alt+shift+right"], "command": "keep", "args": { "keep": "ours" } },
 	{ "keys": ["ctrl+super+p"], "command": "prompt_select_workspace" },

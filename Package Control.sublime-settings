@@ -1,4 +1,8 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"All Autocomplete",
@@ -22,7 +26,8 @@
 		"Handlebars",
 		"Hooks",
 		"ImageMagick",
-		"JS Snippets",
+		"ImportJS",
+		"JavaScript Snippets",
 		"JsPrettier",
 		"Markdown Extended",
 		"MarkdownPreview",
