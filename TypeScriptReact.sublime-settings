@@ -1,7 +1,13 @@
 {
-    "on_pre_save_language": [
-        {
-            "command": "typescript_organize_imports"
-        }
-  ]
+	"error_color": "region.redish",
+	"extensions":
+	[
+		"tsx"
+	],
+	"on_pre_save_language":
+	[
+		{
+			"command": "typescript_organize_imports"
+		}
+	]
 }
