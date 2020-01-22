@@ -10,8 +10,6 @@
 	{ "keys": ["super+shift+o"], "command": "show_overlay", "args": { "overlay": "goto", "show_files": true } },
 	{ "keys": ["super+shift+r"], "command": "rename_tag" },
 	{ "keys": ["super+shift+v"], "command": "paste_from_history" },
-	{ "keys": ["super+shift+up"], "command": "swap_line_up" },
-	{ "keys": ["super+shift+down"], "command": "swap_line_down" },
 	{ "keys": ["super+alt+n"], "command": "side_bar_new_file" },
 	{ "keys": ["super+alt+m"], "command": "side_bar_move" },
 	{ "keys": ["super+alt+f"], "command": "find_next_conflict" },
@@ -21,6 +19,8 @@
 	{ "keys": ["super+alt+shift+n"], "command": "side_bar_duplicate" },
 	{ "keys": ["super+alt+shift+s"], "command": "save_all" },
 	{ "keys": ["super+k", "l"], "command": "reveal_in_side_bar" },
+	{ "keys": ["alt+up"], "command": "swap_line_up" },
+	{ "keys": ["alt+down"], "command": "swap_line_down" },
 	{
 		"context": [{ "key": "panel", "operand": "replace" }, { "key": "panel_has_focus" }],
 		"keys": ["super+alt+enter"],
