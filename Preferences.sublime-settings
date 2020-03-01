@@ -15,6 +15,7 @@
 	"binary_file_patterns":
 	[
 		"node_modules/*",
+		".yarn/*",
 		"composer.lock",
 		"package-lock.json",
 		"yarn.lock"
